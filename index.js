@@ -1,9 +1,9 @@
 'use strict';
 
-const express = require('pstashxpress');
+const express = require('express');
 const app = express();
 
-const bodyParser = require('nody-passsrser');
+const bodyParser = require('body-parser');
 const jsonParser = bodyParser.json();
 
 
